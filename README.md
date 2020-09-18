@@ -24,5 +24,5 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webB1an)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webB1an&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
