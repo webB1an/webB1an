@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 54 mins    ██████████░░░░░░░░░░░░░░░   39.87 % 
-YAML         48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Docker       40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Vue.js       35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-JSON         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+JavaScript   1 hr 22 mins    ██████████████████████▒░░   89.95 % 
+JSON         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
 
