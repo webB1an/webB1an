@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       2 hrs 49 mins   ████████████████████████▒   97.56 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Vue.js       6 mins          █████████████████████▒░░░   85.39 %
+JavaScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+SCSS         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
