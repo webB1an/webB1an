@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       18 hrs 31 mins  █████████████████░░░░░░░░   67.95 %
-JavaScript   4 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Bash         2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-YAML         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Docker       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-TypeScript   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Vue.js       22 hrs 31 mins  ████████████████████▓░░░░   82.52 %
+JavaScript   4 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
