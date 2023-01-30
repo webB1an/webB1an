@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       14 mins         ███████████▓░░░░░░░░░░░░░   46.43 %
+Vue.js       5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Docker       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Bash         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
