@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   12 hrs 46 mins  ██████████████████████▒░░   89.46 %
-Other        1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   11 hrs 57 mins  ██████████████████████░░░   88.06 %
+Other        1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
