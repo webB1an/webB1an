@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      3 hrs 29 mins   █████████████████████▓░░░   87.05 %
-Other           28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-JSON            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-WiX Installer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   3 hrs 39 mins   ██████████████████████▓░░   90.98 %
+Other        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
