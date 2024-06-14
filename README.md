@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      2 hrs 25 mins   ███████████████▒░░░░░░░░░   61.84 %
-Vue.js          57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-Other           29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-JSON            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-WiX Installer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript      1 hr 57 mins    ████████████████▓░░░░░░░░   66.52 %
+Other           29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Vue.js          28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+WiX Installer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
