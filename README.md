@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        0 secs          ████████████████░░░░░░░░░   64.26 %
-JavaScript   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.98 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
