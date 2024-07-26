@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 mins          ████████████████░░░░░░░░░   64.64 %
-Vue.js       3 mins          █████████░░░░░░░░░░░░░░░░   35.36 %
+JavaScript   10 mins         ███████████████████▓░░░░░   79.31 %
+Vue.js       2 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
 ```
 
 <!--END_SECTION:waka-->
