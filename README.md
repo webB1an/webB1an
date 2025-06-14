@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js     3 mins          ██████████████▒░░░░░░░░░░   57.20 %
-Markdown   2 mins          ██████████▓░░░░░░░░░░░░░░   42.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
